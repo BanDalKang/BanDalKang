@@ -6,6 +6,6 @@
 #### 🗣️ Languages
 <img src="https://img.shields.io/badge/Korean ★★★★★-2088FF?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/Japanese ★☆☆☆☆-C71D23?style=flat-square&logoColor=white"/> <img src="https://img.shields.io/badge/English ★☆☆☆☆-161A36?style=flat-square&logoColor=white"/> 
 
-#### 📧 Contact
+#### 📧 Blog
 
 <a href="https://muk-clouds.tistory.com"><img src="https://img.shields.io/badge/Tech%20Blog-181717?style=flat-square&logo=GitHub&logoColor=white&link=https://muk-clouds.tistory.com"/></a>
